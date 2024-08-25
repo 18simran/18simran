@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/18simran/My_Portfolio](https://github.com/18simran/My_Portfolio)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://mmyresume.netlify.app/)
 
 - 📫 How to reach me **simrankaur44006@gmail.com**
 
