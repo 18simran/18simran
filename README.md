@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simran Kaur</h1>
+<h1 align="center">Hi 👋, I'm Simran Kaur</h1> 
 <h3 align="center">A passionate FullStack developer from India</h3>chatgpr
 
 - 🌱 I’m currently focusing on **Backend**
