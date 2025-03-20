@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on **Backend**
 
-- 👨‍💻 All of my projects are available at [My_Portfolio](simranpersonalportfolioo.netlify.app)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://simranpersonalportfolioo.netlify.app)
 
 - 📫 How to reach me **simrankaur44006@gmail.com**
 
